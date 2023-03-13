@@ -5,7 +5,7 @@
 
 ## Features
 
-This React component allows you to fetch and display information about a Github user by providing their username. It retrieves the user's name, bio, email and avatar image using the Github API. Additionally.
+This React app allows you to fetch and display information about a Github user by providing their username. It retrieves the user's name, bio, email and avatar image using the Github API. Additionally.
 
 ## Installation
 
