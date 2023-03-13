@@ -1,18 +1,20 @@
-import React, { useState, useEffect } from 'react';
-import ky from 'ky';
+import React, { useState, useEffect } from "react";
+import ky from "ky";
 
 function GithubUser({ username }) {
-  const [name, setName] = useState('');
-  const [bio, setBio] = useState('');
-  const [email, setEmail] = useState('');
-  const [avatarUrl, setAvatarUrl] = useState('');
+  const [name, setName] = useState("");
+  const [bio, setBio] = useState("");
+  const [email, setEmail] = useState("");
+  const [avatarUrl, setAvatarUrl] = useState("");
 
-  const [searchInput, setSearchInput] = useState('');
+  const [searchInput, setSearchInput] = useState("");
 
   useEffect(() => {
     async function fetchGithubUser() {
       try {
-        const response = await ky(`https://api.github.com/users/${username}`).json();
+        const response = await ky(
+          `https://api.github.com/users/${username}`
+        ).json();
         setName(response.name);
         setBio(response.bio);
         setEmail(response.email);
@@ -28,7 +30,9 @@ function GithubUser({ username }) {
     event.preventDefault();
     if (searchInput) {
       try {
-        const response = await ky(`https://api.github.com/users/${searchInput}`).json();
+        const response = await ky(
+          `https://api.github.com/users/${searchInput}`
+        ).json();
         setName(response.name);
         setBio(response.bio);
         setEmail(response.email);
@@ -41,10 +45,14 @@ function GithubUser({ username }) {
 
   return (
     <div>
-
       <h1>feth them all! </h1>
       <form onSubmit={handleSearchSubmit}>
-          <input type="text" placeholder="Search for a Github user:" value={searchInput} onChange={(event) => setSearchInput(event.target.value)} />
+        <input
+          type="text"
+          placeholder="Search for a Github user:"
+          value={searchInput}
+          onChange={(event) => setSearchInput(event.target.value)}
+        />
         <button type="submit">Search</button>
       </form>
 
@@ -57,3 +65,4 @@ function GithubUser({ username }) {
 }
 
 export default GithubUser;
+gi;
