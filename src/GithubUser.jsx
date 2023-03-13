@@ -41,11 +41,10 @@ function GithubUser({ username }) {
 
   return (
     <div>
+
+      <h1>feth them all! </h1>
       <form onSubmit={handleSearchSubmit}>
-        <label>
-          Search for a Github user:
-          <input type="text" value={searchInput} onChange={(event) => setSearchInput(event.target.value)} />
-        </label>
+          <input type="text" placeholder="Search for a Github user:" value={searchInput} onChange={(event) => setSearchInput(event.target.value)} />
         <button type="submit">Search</button>
       </form>
 
