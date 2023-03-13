@@ -1,4 +1,4 @@
-# FethThatDev
+# FetchThatDev
 ![banner]()
 
 [![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://reactjs.org/) [![ky](https://img.shields.io/badge/ky-v0.23.0-yellowgreen)](https://github.com/sindresorhus/ky)
