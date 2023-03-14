@@ -30,13 +30,13 @@ html {font-size: 100%;} /*16px*/
 /*---------- LIGHT / DARK---------- */
 
 body {
-  --bgc-color: rgb(20, 29, 47);
-  --card-color: #1e2a47;
-  --stats-color: #ffffff;
-  --logo-color: #ffffff;
-  --stats-color: #697c9a;
+  --bgc-color: #190b05;
+  --card-color: #3d1307;
+  --stats-color: #fffefd;
+  --logo-color: #fffefd;
+  --stats-color: #fe7d5e;
   --bio-color: #ffffff;
-  --btn-color: #0079ff;
+  --btn-color: #ee3c13;
 
 
 
@@ -49,10 +49,10 @@ body {
 }
 
 body.light {
-  --bgc-color: #f6f8ff;
+  --bgc-color: #fff3ee;
   --card-color: #fefefe;
-  --bio-color: #697c9a;
-  --icon-color: #4b6a9b;
+  --bio-color: #fe7d5e;
+  --icon-color: #fe562f;
   --stats-color: #bbbbbb;
   --logo-color: black;
   --theme-filter: invert(0%) sepia(100%) saturate(15%) hue-rotate(237deg)
