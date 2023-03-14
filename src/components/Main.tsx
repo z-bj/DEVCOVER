@@ -1,6 +1,8 @@
 import React, { useCallback, useEffect, useState } from "react";
 
-import ky from "ky"; // Import the ky library
+import ky from "ky"; // Import the ky HTTP library
+import Input from "./Input";
+import Card from "./Card";
 
 const Main = () => {
   const [user, setUser] = useState("z-bj");
@@ -16,7 +18,7 @@ const Main = () => {
     setError("");
 
     try {
-      // Call the API using ky instead of fetch
+    
       const response = await ky(`https://api.github.com/users/${choice}`);
 
       if (!response.ok) {
@@ -39,11 +41,8 @@ const Main = () => {
 
   return (
     <main>
-     
-          
-
-
-
+          <Input changeUser={changeUser} error={error} />
+          <Card user={user} />
     </main>
   );
 };

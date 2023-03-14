@@ -23,7 +23,7 @@
 .form div {
   display: flex;
   flex-direction: row;
-  /* column-gap: 10px; */
+
 }
 
 .form button {
