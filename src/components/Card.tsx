@@ -56,7 +56,7 @@ const Card = (props) => {
           <li>
             <img src="./src/images/icon-website.svg" alt="" />
             {props.user.blog && (
-              <a href={props.user.blog} className="available">
+              <a href={`https://${props.user.blog}`} className="available">
                 {props.user.blog}
               </a>
             )}
