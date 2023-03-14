@@ -50,11 +50,11 @@ const Card = (props) => {
       <div className={styles.contact}>
         <ul>
           <li>
-            <img src="./images/icon-location.svg" alt="" />
+            <img src="./src/images/icon-location.svg" alt="" />
             {checkInfo(props.user.location)}
           </li>
           <li>
-            <img src="./images/icon-website.svg" alt="" />
+            <img src="./src/images/icon-website.svg" alt="" />
             {props.user.blog && (
               <a href={props.user.blog} className="available">
                 {props.user.blog}
@@ -63,11 +63,11 @@ const Card = (props) => {
             {!props.user.blog && checkInfo(props.user.blog)}
           </li>
           <li>
-            <img src="./images/icon-twitter.svg" alt="" />
+            <img src="./src/images/icon-twitter.svg" alt="" />
             {checkInfo(props.user.twitter)}
           </li>
           <li>
-            <img src="./images/icon-company.svg" alt="" />
+            <img src="./src/images/icon-company.svg" alt="" />
             {checkInfo(props.user.company)}
           </li>
         </ul>
