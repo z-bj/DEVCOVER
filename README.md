@@ -58,13 +58,13 @@ The app is built with the following tools and technologies:
 
 ## Color theme
 
-![color](https://github.com/z-bj/DEVCOVER/blob/main/Color-system.jpg)
+![color](https://github.com/z-bj/DEVCOVER/blob/main/Color.jpg)
 
 
 
 ## Font
 
-![type](https://github.com/z-bj/DEVCOVER/blob/main/font-system.jpg)
+![type](https://github.com/z-bj/DEVCOVER/blob/main/type.jpg)
 
 
 
