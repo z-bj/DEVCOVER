@@ -19,9 +19,11 @@ Looking for more information? Check out the DEVCOVER core, which is built with R
 
 So why wait? Try DEVCOVER today and take your frontend development projects to the next level.
 
+## Mobile
 
+![mobile](https://github.com/z-bj/DEVCOVER/blob/main/devcover-mobile.gif)
 
-## DEMO
+## Desktop
 
 ![desktop](https://github.com/z-bj/DEVCOVER/blob/main/Devcover.gif)
 
