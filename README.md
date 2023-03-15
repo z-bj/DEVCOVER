@@ -40,15 +40,15 @@ The app is built with the following tools and technologies:
 -   Grid
 -   Mobile-first workflow
 
-## UI Kit
+# UI Kit
 
-### Color theme
+## Color theme
 
 ![color](https://github.com/z-bj/DEVCOVER/blob/main/Color-system.jpg)
 
-<hr>
 
-### Font
+
+## Font
 
 ![type](https://github.com/z-bj/DEVCOVER/blob/main/font-system.jpg)
 
