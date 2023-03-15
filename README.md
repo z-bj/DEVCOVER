@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/DEVCOVER/blob/main/banner_devcover.jpg)
+![banner](https://github.com/z-bj/DEVCOVER/blob/main/devcover-banner.jpg)
 
 # 
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)![TS](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)![cssModules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white)![jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -19,13 +19,13 @@ Looking for more information? Check out the DEVCOVER core, which is built with R
 
 So why wait? Try DEVCOVER today and take your frontend development projects to the next level.
 
-## Mobile
-
-![mobile](https://github.com/z-bj/DEVCOVER/blob/main/devcover-mobile.gif)
-
 ## Desktop
 
 ![desktop](https://github.com/z-bj/DEVCOVER/blob/main/Devcover.gif)
+
+## Mobile
+
+![mobile](https://github.com/z-bj/DEVCOVER/blob/main/devcover-mobile.gif)
 
 ## Features
 
@@ -41,36 +41,8 @@ The app utilizes the Github REST API to retrieve user information. The API provi
 
 Note that for unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address and not the user making requests.
 
+## Main.tsx
 
-## Built with
-
-The app is built with the following tools and technologies:
-
--   [Vite](https://vitejs.dev/): Next Generation Fronted Tooling
--   Typescript
--   React - JS library
--   [Ky](https://github.com/sindresorhus/ky): Delightful HTTP Requests
--   Semantic HTML5 markup
--   CSS custom properties
--   Flexbox
--   Grid
--   Mobile-first workflow
-
-# UI Kit
-
-## Color theme
-
-![color](https://github.com/z-bj/DEVCOVER/blob/main/Color.jpg)
-
-
-
-## Font
-
-![type](https://github.com/z-bj/DEVCOVER/blob/main/type.jpg)
-
-
-
-## Core
 
 ``` javascript
 
@@ -126,6 +98,35 @@ const Main = () => {
 export default Main;
 
 ```
+
+
+
+## Built with
+
+The app is built with the following tools and technologies:
+
+-   [Vite](https://vitejs.dev/): Next Generation Fronted Tooling
+-   Typescript
+-   React - JS library
+-   [Ky](https://github.com/sindresorhus/ky): Delightful HTTP Requests
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Grid
+-   Mobile-first workflow
+
+# UI Kit
+
+## Color theme
+
+![color](https://github.com/z-bj/DEVCOVER/blob/main/Color.jpg)
+
+
+
+## Font
+
+![type](https://github.com/z-bj/DEVCOVER/blob/main/type.jpg)
+
 
 ## Installation
 
