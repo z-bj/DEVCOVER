@@ -111,5 +111,23 @@ export default Main;
 
 ```
 
+## Installation
+
+To run this app on your local machine:
+
+1.  Clone the repository using `git clone https://github.com/z-bj/DEVCOVER.git`.
+2.  Navigate to the project directory using `cd Make-it-blink.
+3.  Install the dependencies using `npm install`.
+4.  Start the development server using `npm start`.
+
+## Contributing
+
+Contributions are welcome! To contribute to this project:
+
+1.  Fork the repository.
+2.  Make your changes.
+3.  Submit a pull request.
 
 ## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
