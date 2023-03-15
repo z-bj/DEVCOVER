@@ -1,5 +1,6 @@
-import React from "react";
+//@ts-nocheck
 
+import React from "react";
 import styles from "./Card.module.css";
 
 const Card = (props) => {

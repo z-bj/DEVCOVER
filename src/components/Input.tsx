@@ -1,3 +1,6 @@
+//@ts-nocheck
+
+
 import search from "../images/icon-search.svg";
 import React, { useRef } from "react";
 

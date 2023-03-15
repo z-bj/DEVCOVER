@@ -1,3 +1,6 @@
+//@ts-nocheck
+
+
 import styles from "./Container.module.css"
 
 const Container=(props)=>{

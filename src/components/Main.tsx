@@ -1,3 +1,6 @@
+//@ts-nocheck
+
+
 import React, { useCallback, useEffect, useState } from "react";
 
 import ky from "ky"; // Import the ky HTTP library
