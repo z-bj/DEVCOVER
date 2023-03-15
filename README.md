@@ -44,11 +44,11 @@ The app is built with the following tools and technologies:
 
 ### Color theme
 
-![color]()
+![color](https://github.com/z-bj/DEVCOVER/blob/main/Color-system.jpg)
 
 ### Font
 
-![type]()
+![type](https://github.com/z-bj/DEVCOVER/blob/main/font-system.jpg)
 
 
 
