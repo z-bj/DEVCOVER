@@ -11,6 +11,11 @@ DEVCOVER is a Github user search app that allows users to search for Github user
 
 ![gif]()
 
+
+## Elevator Pitch
+
+Looking for a **better way to source Github users** for your development projects? Look no further than DEVCOVER – the ultimate Github user search app. With DEVCOVER, you can search for Github users by their username and see relevant user information based on your search. Plus, with amazing features like the ability to view the optimal layout for the app depending on device screen size, **switch between light and dark themes**, and more, DEVCOVER is the perfect choice for frontend developers looking to take their projects to the next level. So why wait? Try DEVCOVER today and create momentum in your dev sourcing process – find partners, build relationships, and manage a big data set so you can focus on building your business.
+
 ## Features
 
 -   View the optimal layout for the app depending on device screen size
