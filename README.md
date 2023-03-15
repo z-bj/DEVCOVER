@@ -23,7 +23,7 @@ So why wait? Try DEVCOVER today and take your frontend development projects to t
 
 ## DEMO
 
-![gif]()
+![desktop](https://github.com/z-bj/DEVCOVER/blob/main/Devcover.gif)
 
 ## Features
 
