@@ -3,21 +3,21 @@
 # 
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)![TS](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)![cssModules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white)![jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
-## Introducing DEVCOVER 
+## Introducing Devcover
 
-The ultimate Github **user search app** that brings the power of React, Typescript, and the **Github REST API** to your fingertips. Are you tired of scrolling through countless profiles to find the perfect user for your project? With DEVCOVER, you can search for Github users by their username and see relevant user information based on your search.
+The ultimate Github **user search app** that brings the power of React, Typescript, and the **Github REST API** to your fingertips. Are you tired of scrolling through countless profiles to find the perfect user for your project? With Devcover, you can search for Github users by their username and see relevant user information based on your search.
 
-But that's not all – DEVCOVER offers a range of amazing features, including the ability to **view the optimal layout for the app depending on device screen size**, see hover states for all interactive elements on the page, **switch between light and dark themes**, and more!
+But that's not all – Devcover offers a range of amazing features, including the ability to **view the optimal layout for the app depending on device screen size**, see hover states for all interactive elements on the page, **switch between light and dark themes**, and more!
 
-Built with **cutting-edge tools** and technologies like Vite, Ky, and **Semantic HTML5 markup**, DEVCOVER is the ultimate choice for sourcer looking to take their business to the next level. With its **mobile-first workflow**, DEVCOVER ensures that your app looks and feels amazing on any device.
+Built with **cutting-edge tools** and technologies like Vite, Ky, and **Semantic HTML5 markup**, Devcover is the ultimate choice for sourcer looking to take their business to the next level. With its **mobile-first workflow**, Devcover ensures that your app looks and feels amazing on any device.
 
-And the best part? DEVCOVER is **completely free to use**. So why wait? Try DEVCOVER today and discover the Github user search app of your dreams.
+And the best part? Devcover is **completely free to use**. So why wait? Try Devcover today and discover the Github user search app of your dreams.
 
-Ready to get started? DEVCOVER utilizes the Github REST API to retrieve user information, giving you access to a **wide range of Github resources**, including user profiles, repositories, organizations, and more. And with the app's intuitive interface, finding the perfect Github user has never been easier.
+Ready to get started? Devcover utilizes the Github REST API to retrieve user information, giving you access to a **wide range of Github resources**, including user profiles, repositories, organizations, and more. And with the app's intuitive interface, finding the perfect Github user has never been easier.
 
-Looking for more information? Check out the DEVCOVER core, which is built with React, Typescript, and the **Ky HTTP library**. 
+Looking for more information? Check out the Devcover core, which is built with React, Typescript, and the **Ky HTTP library**. 
 
-So why wait? Try DEVCOVER today and take your frontend development projects to the next level.
+So why wait? Try Devcover today and take your frontend development projects to the next level.
 
 ## Desktop
 
