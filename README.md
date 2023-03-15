@@ -11,10 +11,22 @@ DEVCOVER is a Github user search app that allows users to search for Github user
 
 ![gif]()
 
+## Introducing DEVCOVER 
 
-## Elevator Pitch
+The ultimate Github user search app that brings the power of React, Typescript, and the Github REST API to your fingertips. Are you tired of scrolling through countless profiles to find the perfect user for your project? With DEVCOVER, you can search for Github users by their username and see relevant user information based on your search.
 
-Looking for a **better way to source Github users** for your development projects? Look no further than DEVCOVER – the ultimate Github user search app. With DEVCOVER, you can search for Github users by their username and see relevant user information based on your search. Plus, with amazing features like the ability to view the optimal layout for the app depending on device screen size, **switch between light and dark themes**, and more, DEVCOVER is the perfect choice for frontend developers looking to take their projects to the next level. So why wait? Try DEVCOVER today and create momentum in your dev sourcing process – find partners, build relationships, and manage a big data set so you can focus on building your business.
+But that's not all – DEVCOVER offers a range of amazing features, including the ability to view the optimal layout for the app depending on device screen size, see hover states for all interactive elements on the page, switch between light and dark themes, and more!
+
+Built with cutting-edge tools and technologies like Vite, Ky, and Semantic HTML5 markup, DEVCOVER is the ultimate choice for frontend developers looking to take their projects to the next level. With its mobile-first workflow, DEVCOVER ensures that your app looks and feels amazing on any device.
+
+And the best part? DEVCOVER is completely free to use. So why wait? Try DEVCOVER today and discover the Github user search app of your dreams.
+
+Ready to get started? DEVCOVER utilizes the Github REST API to retrieve user information, giving you access to a wide range of Github resources, including user profiles, repositories, organizations, and more. And with the app's intuitive interface, finding the perfect Github user has never been easier.
+
+Looking for more information? Check out the DEVCOVER core, which is built with React, Typescript, and the Ky HTTP library. 
+
+So why wait? Try DEVCOVER today and take your frontend development projects to the next level.
+
 
 ## Features
 
