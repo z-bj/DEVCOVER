@@ -115,8 +115,6 @@ The app is built with the following tools and technologies:
 -   Grid
 -   Mobile-first workflow
 
-# UI Kit
-
 ## Color theme
 
 ![color](https://github.com/z-bj/DEVCOVER/blob/main/Color.jpg)
