@@ -1,6 +1,4 @@
-![banner]()
-
-<!-- BADGEs -->
+![banner](https://github.com/z-bj/DEVCOVER/blob/main/Banner-devcover.jpg)
 
 # DEVCOVER
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)![TS](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)![cssModules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white)![jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -46,10 +44,11 @@ The app is built with the following tools and technologies:
 
 ### Color theme
 
-![color](![image](https://user-images.githubusercontent.com/60877601/225261105-4a4eb208-c91e-42df-8db6-b49af07ac04a.png)
-)
+![color]()
 
-### Ty
+### Font
+
+![type]()
 
 
 
