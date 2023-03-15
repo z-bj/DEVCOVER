@@ -1,4 +1,4 @@
-//@ts-nocheck
+// @ts-nocheck
 
 
 import search from "../images/icon-search.svg";

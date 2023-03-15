@@ -1,5 +1,5 @@
-//@ts-nocheck
-
+//
+// @ts-nocheck
 
 import React, { useState } from "react";
 import styles from "./Toggle.module.css";

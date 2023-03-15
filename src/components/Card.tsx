@@ -1,5 +1,5 @@
-@ts-nocheck
 
+// @ts-nocheck
 
 
 import React from "react";
@@ -59,7 +59,7 @@ const Card = (props) => {
           <li>
             <img src="./src/images/icon-website.svg" alt="" />
             {props.user.blog && (
-              <a href={`https://${props.user.blog}`} className="available">
+              <a href={`${props.user.blog}`} className="available">
                 {props.user.blog}
               </a>
             )}
